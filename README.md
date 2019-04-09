@@ -1,6 +1,6 @@
 # SeqNo Generator
 
-a distributed seq no generator based on MySQL.
+a distributed sequence number generator based on MySQL.
 
 # Why?
 
